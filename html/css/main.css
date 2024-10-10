@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	block-size: border-box;
+}
+
+html,
+body {
+	height: 100%;
+	background-color: #02282F;
+	color: #fff;
+}
+
+.slider {
+	height: 100%;
+
+}
+
+.slider__layer {
+	position: absolute;
+	inset: 0;
+	background-size: cover;
+	background-position: center;
+}
